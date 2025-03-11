@@ -14,7 +14,7 @@ These tasks require close to zero python knowledge.
 
  - [X] Upgrade your game to 60 FPS by changing the variable `GraphicsState.fps`
 
- - [ ] Change the font of the game over text
+ - [X] Change the font of the game over text
 
  - [ ] Change the grid size of the game 
     - [ ] Modifying the variable `grid_size` of the class `GameState`.
