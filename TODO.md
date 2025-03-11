@@ -9,7 +9,7 @@ Simple Tasks
 
 These tasks require close to zero python knowledge.
 
- - [ ] Change the color of the snake by modifying the variables `head_color`
+ - [X] Change the color of the snake by modifying the variables `head_color`
        and `body_color` of the class `GraphicState`
 
  - [ ] Upgrade your game to 60 FPS by changing the variable `GraphicsState.fps`
