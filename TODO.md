@@ -12,7 +12,7 @@ These tasks require close to zero python knowledge.
  - [X] Change the color of the snake by modifying the variables `head_color`
        and `body_color` of the class `GraphicState`
 
- - [ ] Upgrade your game to 60 FPS by changing the variable `GraphicsState.fps`
+ - [X] Upgrade your game to 60 FPS by changing the variable `GraphicsState.fps`
 
  - [ ] Change the font of the game over text
 

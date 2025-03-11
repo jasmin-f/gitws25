@@ -51,7 +51,7 @@ def init() -> tuple[GameState, GraphicState]:
     
     # Create game state
     state = GameState()
-    graphics = GraphicState()
+    graphics = GraphicState(60)
 
     # Initialize random food location
     state.food = (random.randint(0, state.grid_size - 1),
